@@ -1,6 +1,6 @@
 
 ## 😎👈 Sobre mim
-Eu sou um desenvolvedor atualmente de: Java ☕ e Python 🐍()
+Eu sou um desenvolvedor atualmente de: Java ☕ e Python 🐍ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 I am currently a developer of: Java ☕ and Python 🐍
 
 ## 🛠 Habilidades
