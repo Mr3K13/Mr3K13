@@ -13,5 +13,5 @@ I am currently a developer of: Java ☕ and Python 🐍
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcusmendoncadev@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-ferraz-teixeira-de-mendon%C3%A7a-170019297/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/mr3k13)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/mr3k13/)
+[![Discord](https://img.shields.io/badge/Mr3K13-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcus_viniciusftm/)
