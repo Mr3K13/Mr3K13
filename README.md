@@ -15,4 +15,4 @@ I am currently a developer of: Java ☕ and Python 🐍
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/mr3k13)
 [![Discord](https://img.shields.io/badge/Mr3K13-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcus_viniciusftm/)
-[![+](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)]((https://bio.site/Mr3K13))
+[![+](https://img.shields.io/badge/-+-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)]((https://bio.site/Mr3K13))
